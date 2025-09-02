@@ -6,8 +6,9 @@ theme = 'enchanted-lowkey'
 title = 'Enhanced Lowkey Hugo'
 enableRobotsTXT = true
 summaryLength = 15
-paginate = 5
 
+[pagination]
+  pagerSize = 5
 
 [markup]
   [markup.highlight]
